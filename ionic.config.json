@@ -1,0 +1,7 @@
+{
+  "name": "MapquestApplication",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
